@@ -1,0 +1,28 @@
+{
+  "name": "gotit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mathsorg/DMCanim",
+  "authors": [
+    "gmp26 <gmp26@cam.ac.uk>"
+  ],
+  "description": "Simple Game",
+  "main": "index.html",
+  "keywords": [
+    "game",
+    "strategy",
+    "dart",
+    "blockly"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": "true",
+  "dependencies": {
+    "core-scaffold": "Polymer/core-scaffold#~0.5.2"
+  }
+}
